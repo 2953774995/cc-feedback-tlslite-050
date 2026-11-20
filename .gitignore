@@ -1,12 +1,7 @@
-*venv*
+.venv/
+__pycache__/
 *.pyc
-.project
-.pydevproject
-.settings
-.coverage
-.hypothesis
-coverage.xml
-pylint_report.txt
+evidence/
+dist/
 build/
-docs/_build/
-htmlcov/
+*.egg-info/
